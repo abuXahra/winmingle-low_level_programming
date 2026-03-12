@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 /*
  * Author: Isah Abdulmumin
@@ -5,8 +6,20 @@
  * Description: Write a program that prints _putchar, followed by a new line.
  * */
 
-int main()
-{
-    printf("_putchar\n");
-    return (0);
+int main(void)
+
+{    
+    int i = 0;
+    char c;
+
+    char a[] = "_putchar";
+
+    while(i <= 8 ){
+          
+	  c = a[i];
+	  _putchar(c);
+
+          i++;
+     } 
+     return 0;
 }
