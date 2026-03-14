@@ -1,5 +1,13 @@
 #include "main.h"
 
+/**
+ * Author: Isah Abdulmumin
+ * Program: WinMingle Community C Training
+ * Description: Write a function that prints the alphabet, in lowercase, followed by a new line
+ * */
+
+
+
 void print_alphabet(void)
 {
     char x;
