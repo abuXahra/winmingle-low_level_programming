@@ -1,8 +1,8 @@
 #include <ctype.h>
 
-int _islower(int c)
+int _isalpha(int c)
 {
-     if(islower(c)){
+     if(isalpha(c)){
          return (1);
      }else{
          return (0);
