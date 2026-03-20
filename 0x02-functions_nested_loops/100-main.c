@@ -3,8 +3,7 @@
 /**
  * Author: Isah Abdulmumin
  * Program: WinMingle Community C Training
- * Description: Write a function that prints all natural numbers from n to 98, follwed by a new line.
- *
+ * Description: Write a function that prints the n times table, starting with 0. *
  * */
 
 
@@ -12,19 +11,16 @@
 int main(void)
 {
 
-    print_to_98(0);
+    print_times_table(3);
     _putchar('\n');
 
-    print_to_98(98);
+    print_times_table(5);
     _putchar('\n');
 
-    print_to_98(111);
+    print_times_table(98);
     _putchar('\n');
 
-    print_to_98(81);
-    _putchar('\n');
-
-    print_to_98(-10);
+    print_times_table(12);
     _putchar('\n');
 
     return (0);
