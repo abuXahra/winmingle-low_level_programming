@@ -4,4 +4,6 @@
 # 0X02-functions_nested_loops
 # 0x03-debugging
 # 0X04-more_functions_nested_loops
+# pointers_arrays_strings
+
 
