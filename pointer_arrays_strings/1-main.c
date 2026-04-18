@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include "main.h"
 
+/*
+ * Author: Isah Abdulmumin
+ * program: WinMingle Community C Training
+ * Description: Write a fuction that swaps the values of integers
+ * */
+
 int main(void)
 {
    int a = 98;
