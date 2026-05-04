@@ -15,7 +15,7 @@ int main(void)
     char src[] = "World";
     int i;
     
-    _strcat(dest, src);
+    _strcat2(dest, src, 100);
 
     for (i = 0; dest[i] != '\0'; i++)
 	    _putchar(dest[i]);
