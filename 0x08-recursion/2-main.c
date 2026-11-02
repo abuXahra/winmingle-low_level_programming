@@ -1,6 +1,16 @@
 #include <stdio.h>
 #include "main.h"
 
+
+/*
+ * Author: Isah Abdulumin
+ * Program: WinMingle Community Training
+ * Desription: Writ a function that returns the length of a string.
+ * */
+
+
+
+
 int main(){
     
     char array[] = {"Corbin Coleman"};
